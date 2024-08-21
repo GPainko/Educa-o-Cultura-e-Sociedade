@@ -1,12 +1,13 @@
 # Multilateralismo vs. Multiculturalismo
 
-## Multilateralismo
+### Diferença entre "Multicultural" e "Multiculturalismo"
 
-**Multilateralismo** refere-se à cooperação entre múltiplas nações ou organizações, geralmente em questões políticas, econômicas ou culturais. No cenário global, o multilateralismo se manifesta através de organizações internacionais, como as Nações Unidas, onde diferentes países colaboram para resolver problemas globais, mantendo suas respectivas soberanias e culturas.
+- **Multicultural**: Refere-se à presença de múltiplas culturas dentro de uma sociedade. É uma condição ou realidade onde diferentes culturas coexistem em um mesmo espaço geográfico ou social. O termo "multicultural" descreve o estado de diversidade cultural em uma determinada região ou sociedade.
 
-## Multiculturalismo
+- **Multiculturalismo**: É uma política ou ideologia que valoriza e promove essa coexistência de diferentes culturas. Enquanto "multicultural" se refere à presença de múltiplas culturas, "multiculturalismo" trata da abordagem ou da estrutura que apoia e incentiva o reconhecimento, respeito e manutenção dessas diversas culturas dentro de uma sociedade.
 
-Por outro lado, o **Multiculturalismo** trata da coexistência de diferentes culturas dentro de uma sociedade. Ele envolve o reconhecimento e a valorização da diversidade cultural, permitindo que diferentes grupos étnicos, religiosos e linguísticos mantenham suas práticas e tradições, enquanto participam de uma sociedade mais ampla.
+**Resumindo:** "Multicultural" descreve a diversidade cultural existente, enquanto "multiculturalismo" refere-se às políticas e práticas que promovem e sustentam essa diversidade.
+
 
 ---
 
