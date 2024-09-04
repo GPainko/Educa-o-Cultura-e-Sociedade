@@ -5,3 +5,6 @@ montar um texto de uma página relacionando os tópicos com o [livro](https://1d
 - cultura
 - Multiculturalismo
 - Globalização
+
+## Atividade 2:
+Montar um apresentação sobre o papel da mulher em determinada cultura.
